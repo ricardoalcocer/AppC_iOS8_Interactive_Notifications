@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical" top="20">
+		<Button onClick="doit">Do it now</Button>
+		<Label id="wait">Wait 5 seconds!</Label>
+	</Window>
+</Alloy>
